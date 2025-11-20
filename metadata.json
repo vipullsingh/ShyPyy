@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ShyPy",
+  "description": "Where Vibes Connect, Not Faces. An anonymous social voice platform focusing on genuine human synergy through voice, thoughts, and emotion.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
